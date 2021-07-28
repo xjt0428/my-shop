@@ -1,0 +1,1 @@
+<view class="contact"><image src="http://www.itcast.cn/2018czydz/images/gywmban.jpg"></image><view class="info"><view data-event-opts="{{[['tap',[['makePhoneCall',['$event']]]]]}}" bindtap="__e">{{"联系电话： "+phoneNum}}</view><view>地址： 河南省郑州市高新技术产业开发区长春路100号</view></view><map latitude="34.75168" longitude="113.783414"></map></view>

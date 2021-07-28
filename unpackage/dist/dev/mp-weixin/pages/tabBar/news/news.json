@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "资讯",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#b50e03",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "news-item": "/components/newsItem"
+  }
+}

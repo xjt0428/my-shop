@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "优购商品",
+  "enablePullDownRefresh": true,
+  "navigationBarBackgroundColor": "#b50e03",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "goods-list": "/components/goodList"
+  }
+}

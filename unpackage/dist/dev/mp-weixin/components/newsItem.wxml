@@ -1,0 +1,1 @@
+<view class="newItem"><image src="{{imgUrl}}"></image><view class="right"><view class="title">{{newsInfo.title}}</view><view class="info"><text>{{"发表时间："+$root.f0}}</text><text>{{"浏览："+newsInfo.click+"次"}}</text></view></view></view>

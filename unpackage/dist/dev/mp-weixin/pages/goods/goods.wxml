@@ -1,0 +1,1 @@
+<view class="goods"><goods-list vue-id="576f0adc-1" goodList="{{goods}}" data-event-opts="{{[['^itemClicked',[['goToDetail',['$event']]]]]}}" bind:itemClicked="__e" bind:__l="__l"></goods-list><block wx:if="{{dataFlag}}"><view class="footer">没有更多数据了</view></block></view>
